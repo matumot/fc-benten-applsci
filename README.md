@@ -15,16 +15,18 @@ It includes experimental data, scripts, and visual outputs for the figures prese
 
 The repository is organized as follows:
 
-- **`data/`**: Raw experimental data files for each figure.
-- **`code/`**: Python scripts used for processing the data and generating plots.
-- **`figures/`**: Visualizations included in the paper (PNG files).
-- **`README.md`**: Documentation for understanding and utilizing the repository.
+- [data/](./data/): Raw experimental data files for each figure.
+- [code/](./code/): Python scripts used for processing the data and generating plots.
+- [figures/](./figures/): Visualizations included in the paper (PNG files).
+- [README.md](./README.md): Documentation for understanding and utilizing the repository.
 
 ------
 
 ## 3. Figure Descriptions
 
-Below is a summary of the figures included in this repository:
+Below is a summary of the figures included in this repository.
+
+**Note:** Figures not listed here (e.g., Figure 6, 13, and 16–19) are either not based on original datasets or are excluded from this repository due to non-reproducible elements (e.g., conceptual illustrations or photographs).
 
 ------
 
