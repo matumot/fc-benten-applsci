@@ -26,7 +26,7 @@ The repository is organized as follows:
 
 Below is a summary of the figures included in this repository.
 
-**Note:** Figures not listed here (e.g., Figure 6, 13, and 16–19) are either not based on original datasets or are excluded from this repository due to non-reproducible elements (e.g., conceptual illustrations or photographs).
+**Note:**   Figures such as 1, 2, 6, 13, and 16–19 are conceptual diagrams or photographs without associated data and are therefore not included here.
 
 ------
 
@@ -205,7 +205,7 @@ Below is a summary of the figures included in this repository.
    Ensure that all required data files are downloaded and placed in the appropriate directories as specified in the scripts.
 
 2. **Install Python Dependencies**:
-   Use the `requirements.txt` file to set up the environment:
+   Required Python libraries include `matplotlib`, `pandas`, `openpyxl`, and `scipy`, as specified in `requirements.txt`.   You can set se up the environment using:
 
    ```
    pip install -r requirements.txt
