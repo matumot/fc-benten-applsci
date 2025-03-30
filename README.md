@@ -205,7 +205,7 @@ Below is a summary of the figures included in this repository.
    Ensure that all required data files are downloaded and placed in the appropriate directories as specified in the scripts.
 
 2. **Install Python Dependencies**:
-   Required Python libraries include `matplotlib`, `pandas`, `openpyxl`, and `scipy`, as specified in `requirements.txt`.   You can set se up the environment using:
+   Required Python libraries include `matplotlib`, `pandas`, `openpyxl`, and `scipy`, as specified in [requirements.txt](./requirements.txt).   You can set up the environment using:
 
    ```
    pip install -r requirements.txt
