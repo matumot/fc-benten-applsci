@@ -15,10 +15,12 @@ It includes experimental data, scripts, and visual outputs for the figures prese
 
 The repository is organized as follows:
 
-- [data/](./data/): Raw experimental data files for each figure.
-- [code/](./code/): Python scripts used for processing the data and generating plots.
-- [figures/](./figures/): Visualizations included in the paper (PNG files).
-- [README.md](./README.md): Documentation for understanding and utilizing the repository.
+* [requirements.txt](./requirements.txt): Python dependencies required to run the analysis scripts.
+* [data/](./data/): Raw experimental data files for each figure.
+* [code/](./code/): Python scripts used for processing the data and generating plots.
+* [figures/](./figures/): Visualizations included in the paper (PNG files).
+* [LICENSE](./LICENSE): License for code use and distribution (Apache 2.0).
+* [CREDIT.md](./CREDIT.md): Attribution guidelines for data and figures (CC-BY 4.0).
 
 ------
 
